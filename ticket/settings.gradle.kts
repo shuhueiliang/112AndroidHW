@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HW_ticket"
+rootProject.name = "RadioButton1"
 include(":app")
+ 
